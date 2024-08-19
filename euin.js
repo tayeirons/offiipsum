@@ -1,0 +1,1 @@
+gen = opt.comparator || comparator;
